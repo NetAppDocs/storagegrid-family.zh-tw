@@ -1,0 +1,40 @@
+---
+product-family:
+  title: 本文檔StorageGRID
+  lead: NetApp StorageGRID 是一套軟體定義的物件儲存套件、可在公有雲、私有雲和混合式多雲端環境中支援各種使用案例。StorageGRID
+    提供 Amazon S3 API 的原生支援、並提供領先業界的創新技術、例如自動化生命週期管理、可長期以符合成本效益的方式儲存、保護、保護及保留非結構化資料。
+  summary: NetApp StorageGRID 是一套軟體定義的物件儲存套件、可在公有雲、私有雲和混合式多雲端環境中支援各種使用案例。StorageGRID
+    提供 Amazon S3 API 的原生支援、並提供領先業界的創新技術、例如自動化生命週期管理、可長期以符合成本效益的方式儲存、保護、保護及保留非結構化資料。
+  sidebarlinks:
+  - title: 全部
+    tags: all
+    class: active
+  - title: 開始使用
+    tags: get_started
+  - title: 設定及使用軟體
+    tags: storagegrid
+  - title: 安裝及維護應用裝置
+    tags: appliances
+  - title: 整合與啟用
+    tags: enable
+  tiles:
+  - title: 深入瞭解StorageGRID
+    icon: "./media/groups_line.png"
+    url: intro-family.html
+    summary: 瞭解 StorageGRID 。
+    tags: all, get_started, storagegrid, appliances, enable
+  - title: StorageGRID 11.8 文件
+    icon: "./media/config_line.png"
+    url: "../storagegrid-118/index.html"
+    summary: 設定及使用 StorageGRID 11.8 軟體。
+    tags: all, storagegrid
+  - title: StorageGRID 應用裝置
+    icon: "./media/icon-onprem.png"
+    url: "../storagegrid-appliances/index.html"
+    summary: 安裝及維護 StorageGRID 應用裝置。
+    tags: all, appliances
+  - title: 啟用StorageGRID 功能
+    icon: "./media/synergy.png"
+    url: "../storagegrid-enable/index.html"
+    summary: 測試、整合及啟用 StorageGRID 。
+    tags: all, enable
