@@ -21,10 +21,10 @@ NetApp StorageGRID 是一套軟體定義的物件儲存套件、可在公有雲�
 
 == StorageGRID 的優點
 
-這個系統的優點StorageGRID 包括：
+StorageGRID 系統的優點包括：
 
-* 可大幅擴充且易於使用的地理分散式資料儲存庫、適用於非結構化資料。
-* 支援 Amazon Web Services Simple Storage Service （ S3 ）傳輸協定
+* 可大規模擴充且易於使用的地理分佈式資料儲存庫、適用於非結構化資料。
+* 支援 Amazon Web Services Simple Storage Service （ S3 ）傳輸協定。
 * 混合雲已啟用。原則型資訊生命週期管理（ILM）會將物件儲存至公有雲、包括Amazon Web Services（AWS）和Microsoft Azure。透過支援內容複寫、事件通知及中繼資料搜尋儲存至公有雲的物件。StorageGRID
 * 靈活的資料保護功能、確保持久性與可用度。您可以使用複寫和分層銷毀編碼來保護資料。閒置和飛行中資料驗證可確保完整性、以利長期保留。
 * 動態資料生命週期管理、有助於管理儲存成本。您可以建立ILM規則、在物件層級管理資料生命週期、並自訂資料位置、持久性、效能、成本和保留時間。
@@ -56,20 +56,21 @@ NetApp StorageGRID 是一套軟體定義的物件儲存套件、可在公有雲�
 
 
 
-== 軟件StorageGRID
+== 本文檔StorageGRID
 
-* https://docs.netapp.com/us-en/storagegrid-118/["StorageGRID 11.8 文件"^]
-* https://docs.netapp.com/us-en/storagegrid-117/["StorageGRID 11.7 文件"^]
-* https://docs.netapp.com/us-en/storagegrid-116/["StorageGRID 11.6 文件"^]
-* https://docs.netapp.com/us-en/storagegrid-115/["StorageGRID 11.5 文件"^]
-* https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=61023["StorageGRID 11.4 文件"^]
+* https://docs.netapp.com/us-en/storagegrid/["StorageGRID 軟體文件網站"^]
+* https://docs.netapp.com/us-en/storagegrid-appliances/["StorageGRID 應用裝置文件網站"^]
 
 
+您可以在這裡找到舊版 StorageGRID 軟體的文件：
 
-
-== StorageGRID 應用裝置
-
-* https://docs.netapp.com/us-en/storagegrid-appliances/["StorageGRID 應用裝置"^]
+* https://docs.netapp.com/us-en/storagegrid-118/index.html["StorageGRID 11.8 文件"^]
+* https://docs.netapp.com/us-en/storagegrid-117/index.html["StorageGRID 11.7 文件"^]
+* https://docs.netapp.com/us-en/storagegrid-116/index.html["StorageGRID 11.6 文件"^]
+* https://docs.netapp.com/us-en/storagegrid-115/index.html["StorageGRID 11.5 文件"^]
+* https://docs.netapp.com/sgws-114/index.jsp["VMware文件中心StorageGRID"^]
+* https://docs.netapp.com/sgws-113/index.jsp["StorageGRID 11.3 文件中心"^]
+* https://docs.netapp.com/sgws-112/index.jsp["供應資料中心StorageGRID"^]
 
 
 
