@@ -56,25 +56,6 @@ StorageGRID 系統的優點包括：
 
 
 
-== 本文檔StorageGRID
-
-* https://docs.netapp.com/us-en/storagegrid/["StorageGRID 軟體文件網站"^]
-* https://docs.netapp.com/us-en/storagegrid-appliances/["StorageGRID 應用裝置文件網站"^]
-
-
-您可以在這裡找到舊版 StorageGRID 軟體的文件：
-
-* https://docs.netapp.com/us-en/storagegrid-118/index.html["StorageGRID 11.8 文件"^]
-* https://docs.netapp.com/us-en/storagegrid-117/index.html["StorageGRID 11.7 文件"^]
-* https://docs.netapp.com/us-en/storagegrid-116/index.html["StorageGRID 11.6 文件"^]
-* https://docs.netapp.com/us-en/storagegrid-115/index.html["StorageGRID 11.5 文件"^]
-* https://docs.netapp.com/sgws-114/index.jsp["VMware文件中心StorageGRID"^]
-* https://docs.netapp.com/sgws-113/index.jsp["StorageGRID 11.3 文件中心"^]
-* https://docs.netapp.com/sgws-112/index.jsp["供應資料中心StorageGRID"^]
-
-
-
-
 == 如何在StorageGRID 您的環境中啟用支援功能
 
 前往 https://docs.netapp.com/us-en/storagegrid-enable/index.html["如何在StorageGRID 您的環境中啟用支援功能"^] 以瞭解如何在 StorageGRID 環境中測試及啟用應用程式。
