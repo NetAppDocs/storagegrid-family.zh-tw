@@ -23,7 +23,7 @@ product-family:
     url: intro-family.html
     summary: 深入瞭解 StorageGRID 、並存取舊版 StorageGRID 的文件。
     tags: all, get_started, storagegrid, appliances, enable
-  - title: 本文檔StorageGRID
+  - title: 軟件StorageGRID
     icon: "./media/config_line.png"
     url: "../storagegrid/index.html"
     summary: 安裝、設定及維護最新的 StorageGRID 軟體。
