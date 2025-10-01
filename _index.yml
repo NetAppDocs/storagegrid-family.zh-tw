@@ -33,7 +33,7 @@ product-family:
     url: "../storagegrid-appliances/index.html"
     summary: 安裝及維護 StorageGRID 應用裝置。
     tags: all, appliances
-  - title: 啟用StorageGRID 功能
+  - title: StorageGRID解決方案和資源
     icon: "./media/synergy.png"
     url: "../storagegrid-enable/index.html"
     summary: 測試、整合及啟用 StorageGRID 。
