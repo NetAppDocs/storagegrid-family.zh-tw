@@ -19,6 +19,7 @@ NetApp StorageGRID 是一套軟體定義的物件儲存套件、可在公有雲�
 
 
 
+[[storagegrid-benefits]]
 == StorageGRID 的優點
 
 StorageGRID 系統的優點包括：
@@ -56,6 +57,7 @@ StorageGRID 系統的優點包括：
 
 
 
+[[storagegrid-solutions-and-resources]]
 == StorageGRID解決方案和資源
 
 前往 https://docs.netapp.com/us-en/storagegrid-enable/index.html["StorageGRID解決方案和資源"^]了解如何在StorageGRID環境中測試和啟用應用程式。
